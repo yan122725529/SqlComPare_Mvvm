@@ -1,0 +1,5 @@
+﻿<AppSetting xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceDbPath >H:\Abiz_Developers.db3</SourceDbPath >
+  <TargetDbPath >H:\Abiz_Developer.db3</TargetDbPath>
+  <NeedCompareIndex>true</NeedCompareIndex>
+</AppSetting>
